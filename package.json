@@ -1,6 +1,6 @@
 {
     "name": "@colbycommunications/colby-confirm-component",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A confirmation dialog box component",
     "main": "dist/index.js",
     "author": "Brandon K. Waltz",
